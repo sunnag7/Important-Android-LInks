@@ -33,3 +33,7 @@ http://sqlitebrowser.org/
 
 Sqlite alternative for android
 https://news.realm.io/news/realm-for-android/
+
+
+Android Design inspiration
+https://material.uplabs.com/
